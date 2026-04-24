@@ -1,5 +1,5 @@
 {
-  "name": "mcp-oauth-workos",
+  "name": "mcp-oauth-workos-template",
   "type": "module",
   "version": "1.0.0",
   "description": "MCP server template with WorkOS AuthKit OAuth authentication",
